@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yashraj Verma 👋</h1>
-<h3 align="center">Aspiring Researcher & Finance Enthusiast | Portfolio Optimization · Risk Analytics · ML for Markets</h3>
+<h3 align="center">Aspiring Finance Researcher & Analyst | Portfolio Optimization · Risk Analytics · ML for Markets</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashrajverma1203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -12,7 +12,7 @@
 
 - 🏫 B.Tech graduate at **Indian Institute of Technology, Guwahati** (2021 – 2026)
 - 📈 Building quantitative finance projects spanning **portfolio optimization, derivatives pricing, and market microstructure**
-<!--  - 🧠 Selected participant, **McKinsey Forward Program** (2026) -->
+- 🧠 Finance Enthusiast, **CFA candidate** -->
 - 🏆 JEE Advanced — Top 4.7% nationwide out of 1.1M candidates
 - 💬 Ask me about Monte Carlo simulation, options pricing, or portfolio theory
 
@@ -81,11 +81,9 @@
 
 ---
 
-
-
 ## Snake Animation
 
-![Snake Animation](https://github.com/Yashraj1203/Yashraj1203/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Yashraj1203/Yashraj1203/output/github-contribution-grid-snake.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -93,11 +91,3 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
----
-
-### 📫 Reach Me
-
-<p align="left">
-  <a href="mailto:yashrajverma1203@gmail.com">yashrajverma1203@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/yashrajverma1203/">LinkedIn</a>
-</p>
