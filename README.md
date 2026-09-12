@@ -68,15 +68,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashraj1203/Yashraj1203/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashraj1203/Yashraj1203/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Yashraj1203/Yashraj1203/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -87,6 +78,20 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashraj1203&theme=default&hide_border=true"/>
 </p>
+
+---
+
+
+
+## Snake Animation
+
+![Snake Animation](https://github.com/Yashraj1203/Yashraj1203/output/github-contribution-grid-snake.svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ---
 
