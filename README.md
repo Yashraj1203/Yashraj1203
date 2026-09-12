@@ -70,10 +70,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yashraj1203&show_icons=true&theme=default&hide_border=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj1203&layout=compact&theme=default&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashraj1203&theme=default&hide_border=true"/>
