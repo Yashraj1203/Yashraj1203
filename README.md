@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yashraj Verma 👋</h1>
-<h3 align="center">Aspiring Finance Researcher & Analyst | Portfolio Optimization · Risk Analytics · ML for Markets</h3>
+<h3 align="center">Aspiring Researcher & Analyst | Portfolio Optimization · Risk Analytics · ML for Markets</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashrajverma1203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
